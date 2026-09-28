@@ -1,0 +1,61 @@
+INFO:     127.0.0.1:59868 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50178 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50178 - "GET /styles.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51165 - "GET /app.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51165 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51165 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51165 - "GET /redoc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51165 - "GET /openapi.json HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:52665 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52665 - "GET /styles.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51342 - "GET /app.js HTTP/1.1" 200 OK
+   INFO:     127.0.0.1:64190 - "POST /api/v1/auth/login HTTP/1.1" 200 OK
+             INFO:     127.0.0.1:61004 - "POST /api/v1/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50441 - "GET /api/v1/carreras?solo_activas=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49288 - "GET /api/v1/estudiantes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61004 - "GET /api/v1/reportes/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53563 - "POST /api/v1/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62665 - "GET /api/v1/carreras?solo_activas=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53563 - "GET /api/v1/reportes/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63282 - "GET /api/v1/estudiantes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63610 - "POST /api/v1/estudiantes HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63610 - "GET /api/v1/estudiantes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56608 - "GET /api/v1/reportes/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63198 - "GET /api/v1/estudiantes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62235 - "GET /api/v1/reportes/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63198 - "GET /api/v1/estudiantes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62235 - "GET /api/v1/reportes/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65217 - "GET / HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:65217 - "GET /styles.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:62204 - "GET /app.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:62204 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62204 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62204 - "GET /redoc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62204 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59860 - "GET / HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:59860 - "GET /styles.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:49306 - "GET /app.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:49306 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53092 - "POST /api/v1/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53127 - "GET /api/v1/carreras?solo_activas=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53092 - "GET /api/v1/reportes/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49669 - "GET /api/v1/estudiantes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58520 - "GET /redoc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58520 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58520 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58520 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59769 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59769 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54757 - "POST /api/v1/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60550 - "GET /api/v1/carreras?solo_activas=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60829 - "GET /api/v1/estudiantes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54757 - "GET /api/v1/reportes/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59901 - "POST /api/v1/auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:65494 - "POST /api/v1/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65494 - "GET /api/v1/reportes/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58217 - "GET /api/v1/carreras?solo_activas=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61878 - "GET /api/v1/estudiantes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53189 - "POST /api/v1/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64668 - "GET /api/v1/carreras?solo_activas=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53189 - "GET /api/v1/reportes/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62558 - "GET /api/v1/estudiantes HTTP/1.1" 200 OK
